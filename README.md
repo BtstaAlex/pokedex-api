@@ -34,7 +34,7 @@ Uma Pokédex construída em **Flutter** que consome dados da **[PokéAPI](https:
 
 1. Faça o download do repositório:
 ```bash
-git clone <https://github.com/BtstaAlex/pokedex-api.git``
+git clone https://github.com/BtstaAlex/pokedex-api.git
 ```
 
 2. Entre na pasta do projeto:
